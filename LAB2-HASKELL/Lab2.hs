@@ -7,8 +7,7 @@
 
 module Lab2
      where
-import Distribution.Simple.Utils (xargs)
-import Data.String (IsString)
+
 
 
 
