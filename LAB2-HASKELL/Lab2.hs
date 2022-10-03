@@ -2,8 +2,7 @@
 -- Name: Ayden Armstrong 
 {-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
 {-# HLINT ignore "Redundant bracket" #-}
-{-# OPTIONS_GHC -Wno-incomplete-patterns #-}
-{-# HLINT ignore "Use lambda-case" #-}
+
 
 
 module Lab2
